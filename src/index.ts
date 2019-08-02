@@ -1,0 +1,1 @@
+export { FiveStarsJSONComponent } from "./fivestars"
